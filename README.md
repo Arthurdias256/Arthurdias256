@@ -1,3 +1,15 @@
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"
+    height="180em"
+  />
+</p>
 # 👋 Olá, eu sou Francisco Arthur!
 
 🎓 Estudante de **Sistemas para Internet** na Universidade SENAC SP
