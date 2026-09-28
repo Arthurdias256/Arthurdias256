@@ -1,20 +1,10 @@
-# 📊 GitHub Stats
+# 👨‍💻 Francisco Arthur
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"
-    height="180em"
-  />
-</p>
-# 👋 Olá, eu sou Francisco Arthur!
+### 🎓 Estudante de Sistemas para Internet | 💻 Full Stack em formação
 
-🎓 Estudante de **Sistemas para Internet** na Universidade SENAC SP
-💻 Desenvolvedor **Full Stack em formação**
-🚀 Interessado em **Desenvolvimento Web, Back-end, Mobile, Dados, Cloud e Inteligência Artificial**
+Sou estudante de **Sistemas para Internet** e venho desenvolvendo projetos acadêmicos e pessoais envolvendo **desenvolvimento Web, Mobile, APIs, bancos de dados, Cloud Computing e Inteligência Artificial**.
+
+Atualmente estou no **5º semestre** e busco oportunidades para colocar meus conhecimentos em prática, aprender novas tecnologias e evoluir profissionalmente na área de tecnologia.
 
 ---
 
@@ -22,380 +12,128 @@
 
 ## 💻 Linguagens
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,js,ts,html,css" />
 </p>
 
-**Java • Kotlin • Python • PHP • JavaScript • TypeScript • HTML • CSS • SQL**
-
 ---
 
-# 🚀 Frameworks e Bibliotecas
+## 🌐 Desenvolvimento Web
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,angular,react,vue,nodejs,vite,bootstrap" />
 </p>
 
-**Laravel • Angular • React • Vue.js • Node.js • Vite • Bootstrap • Retrofit**
-
 ---
 
-# 📱 Desenvolvimento Mobile
+## 📱 Desenvolvimento Mobile
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,android,kotlin" />
 </p>
 
-**Android • Android Studio • Kotlin • Retrofit • Material Design • APIs**
-
 ---
 
-# 🗄️ Banco de Dados
+## 🗄️ Banco de Dados
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-**MySQL • SQLite • SQL • CRUD • Modelagem de Dados**
-
-### 📊 SQL
-
-`SELECT` • `WHERE` • `GROUP BY` • `HAVING` • `SUM` • `COUNT` • `AVG` • `SUBSTR` • `INSTR`
-
 ---
 
-# ☁️ Cloud Computing
+## ☁️ Cloud & Infraestrutura
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,ubuntu" />
 </p>
 
-**Microsoft Azure • AWS • Google Cloud • Docker • Ubuntu • SSH**
-
-### ☁️ Azure
-
-* Azure Storage
-* Blob Storage
-* Lifecycle Management
-* Virtual Machines
-* Resource Groups
-* Cloud Computing
-
 ---
 
-# 🌐 Desenvolvimento Web
+## 🤖 Inteligência Artificial
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,openai,gemini" />
 </p>
 
-**Front-end • Back-end • Full Stack • SPA • APIs REST • CRUD • Componentização**
-
 ---
 
-# 🔌 APIs e Integrações
+## 🔧 Git & Ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,ps,ai" />
 </p>
 
-**API REST • Consumo de APIs • Integração de sistemas • JSON • Retrofit**
+---
+
+# 📚 Projetos
+
+### 💎 E-commerce de Joias — Laravel
+
+Projeto acadêmico de e-commerce desenvolvido com Laravel, PHP e MySQL, incluindo painel administrativo, cadastro de produtos, carrinho e integração com banco de dados.
+
+### 💎 JewelTower — Dashboard de Joalheria
+
+Dashboard para gerenciamento de produtos com cadastro, edição, exclusão, pesquisa, filtros, imagens, categorias, preços e SKU.
+
+### 📱 Rise Club — Aplicativo Android
+
+Aplicativo Android desenvolvido com Kotlin e Android Studio, utilizando Retrofit, API em PHP e integração com banco de dados.
+
+### 🔴 Pokédex — Vue.js + PokéAPI
+
+Aplicação Web utilizando Vue.js, Vite e PokéAPI, com consumo de API, componentização, paginação e detalhes dos Pokémon.
+
+### ⚛️ FirstApp — React + Vite
+
+Projeto de estudos em React envolvendo componentes, `map()`, renderização de listas, `useState` e gerenciamento de estado.
+
+### 🌦️ Live Weather App
+
+Aplicação Web para consulta de informações meteorológicas através de API, com tratamento de erros e organização de arquitetura.
+
+### 🏥 Banco de Dados — Clínica
+
+Projeto utilizando SQLite e SQL, trabalhando com consultas, funções, agrupamentos e operações como `SUM`, `COUNT` e `AVG`.
+
+### 🥖 Projeto de Banco de Dados — Padaria
+
+Projeto acadêmico envolvendo modelagem e desenvolvimento de banco de dados para uma padaria.
+
+### 📚 Livraria — BEM & Atomic Design
+
+Projeto desenvolvido para praticar organização, componentização e estruturação de interfaces.
+
+### 🛍️ WooCommerce — Loja de Joias
+
+Mini e-commerce desenvolvido utilizando WooCommerce.
+
+### ☁️ Laboratório Microsoft Azure
+
+Laboratório envolvendo Azure Storage, Blob Storage, Virtual Machines, Ubuntu, Docker, SSH, HTTP e Lifecycle Management.
 
 ---
 
-# 🤖 Inteligência Artificial
+# 📫 Contato
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<p align="center">
+  <a href="mailto:farthurdiasdasilav@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-farthurdiasdasilav%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-**IA Generativa • Gemini • OpenAI • Claude • Chatbots • Assistentes Virtuais • Q&A**
-
----
-
-# 🔧 Git e GitHub
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHONE-%2B55%2011%2095914--0083-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
-**Git • GitHub • Branches • Forks • Pull Requests • Commits • Commits assinados**
-
----
-
-# 🎨 Design e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45"/>
+<p align="center">
+  <a href="https://github.com/Arthurdias256">
+    <img src="https://img.shields.io/badge/GITHUB-Arthurdias256-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-**Figma • Photoshop • Illustrator • Excel • Microsoft Office**
-
 ---
 
-# 🧩 Conceitos
-
-<p align="left">
-  💻 <strong>Full Stack</strong> &nbsp;
-  🔙 <strong>Back-end</strong> &nbsp;
-  🎨 <strong>Front-end</strong> &nbsp;
-  📱 <strong>Mobile</strong> &nbsp;
-  ☁️ <strong>Cloud</strong> &nbsp;
-  🗄️ <strong>Banco de Dados</strong> &nbsp;
-  🔌 <strong>APIs</strong> &nbsp;
-  🤖 <strong>IA</strong>
+<p align="center">
+  💻 Desenvolvendo projetos, aprendendo novas tecnologias e evoluindo todos os dias.
 </p>
-
-* Desenvolvimento Full Stack
-* Desenvolvimento Back-end
-* Desenvolvimento Front-end
-* Desenvolvimento Mobile
-* APIs REST
-* Banco de Dados
-* Cloud Computing
-* Docker
-* Git e GitHub
-* Componentização
-* BEM
-* Atomic Design
-* SPA
-* Integração de APIs
-* IA Generativa
-
----
-
-# 🚀 Projetos
-
-## 💎 E-commerce de Joalheria
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</p>
-
-Projeto acadêmico de e-commerce desenvolvido com **Laravel, PHP, MySQL, HTML, CSS e JavaScript**.
-
-* 🛒 Carrinho de compras
-* 📦 Cadastro de produtos
-* 🗂️ Categorias
-* 🖼️ Imagens
-* ✏️ Edição
-* 🗑️ Exclusão
-* 🗄️ Banco de dados
-* ⚙️ Painel administrativo
-
----
-
-## 💎 JewelTower — Dashboard
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-</p>
-
-Dashboard para gerenciamento de produtos de uma joalheria.
-
-* 🔎 Pesquisa
-* 🗂️ Filtros
-* ➕ Cadastro
-* ✏️ Edição
-* 🗑️ Exclusão
-* 🖼️ Imagens
-* 🏷️ SKU
-* 💰 Preços
-
----
-
-## 🏋️ Rise Club
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
-</p>
-
-Aplicativo Android desenvolvido com **Kotlin**.
-
-* 🔐 Login
-* 🏠 Início
-* 🏋️ Treinos
-* 👥 Comunidade
-* 👤 Perfil
-* 🔌 Integração com API
-
----
-
-## 🎮 Pokédex
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
-
-Aplicação utilizando **Vue.js + Vite + PokéAPI**.
-
-* 🎮 Listagem de Pokémon
-* 🔎 Busca
-* 📄 Paginação
-* 📋 Detalhes
-* 🔌 Consumo de API
-* 🧩 Componentização
-
----
-
-## ⚛️ FirstApp React
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
-
-Projeto de estudos em React.
-
-* ⚛️ Componentes
-* 🔄 `map()`
-* 📋 Renderização de listas
-* 🔀 `state`
-* 🖱️ Eventos
-* 🔄 Troca de conteúdo
-
----
-
-## 🌦️ LiveWeatherApp
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
-
-Aplicação de consulta climática.
-
-* 🌦️ Consulta de clima
-* 🔌 APIs
-* ⚠️ Tratamento de erros
-* 🏗️ Arquitetura
-* 🔧 Refatoração
-
----
-
-## 🏥 Projeto Clínica
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-</p>
-
-Projeto de banco de dados utilizando **SQLite e SQL**.
-
-`SUM` • `COUNT` • `AVG` • `GROUP BY` • `HAVING` • `SUBSTR` • `INSTR`
-
----
-
-## ☁️ Laboratório Azure
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-</p>
-
-Projeto prático de **Cloud Computing**.
-
-* ☁️ Azure Storage
-* 📦 Blob Storage
-* 🔄 Lifecycle Management
-* 🖥️ Virtual Machine
-* 🐳 Docker
-* 🔐 SSH
-* 🐧 Ubuntu
-
----
-
-## 🤖 API Web + IA Generativa
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-</p>
-
-Projeto acadêmico de integração entre **API Web e IA Generativa**.
-
-* 🤖 Gemini
-* 🧠 OpenAI
-* Claude
-* 💬 Chatbot
-* 🗣️ Assistente Virtual
-* ❓ Q&A
-* 🔌 API Web
-
----
-
-## 🌳 Projeto Extensionista — Marcenaria
-
-Projeto acadêmico voltado para criação de uma solução tecnológica para uma marcenaria.
-
-* 🚀 Startup
-* 💡 Solução digital
-* 🪵 Tecnologia aplicada à marcenaria
-* 📚 Projeto extensionista
-
----
-
-# 📊 Atualmente estudando
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
-</p>
-
-**React • Node.js • Angular • Vue.js • Python • Cloud • IA Generativa • Dados e SQL**
-
----
-
-# 🎯 Objetivo
-
-Continuar evoluindo como desenvolvedor, colocando meus conhecimentos em prática através de projetos acadêmicos e pessoais e explorando diferentes áreas da tecnologia.
-
----
-
-⭐ *Este perfil reúne projetos e tecnologias que venho estudando e desenvolvendo ao longo da minha formação em Sistemas para Internet.*
